@@ -1,5 +1,5 @@
 The Zen of Python, by Tim Peters
-
+githup 我来了
 Beautiful is better than ugly.
 Explicit is better than implicit.
 Simple is 43 better than complex.
